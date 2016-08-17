@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Hay poco que hablar de aquello que nos ciega y corta.
-datePublished: '2016-08-17T16:33:50.190Z'
-dateModified: '2016-08-17T16:27:05.216Z'
+datePublished: '2016-08-17T16:34:30.555Z'
+dateModified: '2016-08-17T16:34:17.628Z'
 title: ''
 author: []
 via: {}
@@ -18,8 +18,6 @@ url: out-of-place/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2fb4d11-4896-4806-917d-acc40bff9519.jpg)
-
 Hay poco que hablar de aquello que nos ciega y corta.
 
 La gran idea, aparentemente es... dejar pasar.
@@ -43,3 +41,4 @@ Aquello fuera de lugar.
 Porque no hay un lugar como prefiero.
 
 http://www.youtube.com/watch?v=dUsWur3EqUE
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2fb4d11-4896-4806-917d-acc40bff9519.jpg)
