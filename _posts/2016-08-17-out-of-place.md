@@ -13,14 +13,18 @@ description: >-
   agradable. Supongo que me agrada la forma en que mi vida se torna mas una
   forma de compartir perversiones y hablar extensamente de lo inconfundiblemente
   prohibido.
-datePublished: '2016-08-17T18:52:33.274Z'
-dateModified: '2016-08-17T18:51:54.713Z'
+datePublished: '2016-08-17T19:38:32.987Z'
+dateModified: '2016-08-17T19:38:29.010Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-08-17-out-of-place.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: out-of-place/index.html
 _type: Article
