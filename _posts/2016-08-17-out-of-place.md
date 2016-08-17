@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Hay poco que hablar de aquello que nos ciega y corta.
-datePublished: '2016-08-17T16:34:30.555Z'
-dateModified: '2016-08-17T16:34:17.628Z'
+description: ''
+datePublished: '2016-08-17T18:50:51.123Z'
+dateModified: '2016-08-17T18:50:17.051Z'
 title: ''
 author: []
 via: {}
@@ -18,15 +18,7 @@ url: out-of-place/index.html
 _type: Article
 
 ---
-Hay poco que hablar de aquello que nos ciega y corta.
-
-La gran idea, aparentemente es... dejar pasar.
-
-Hay algo oscuro y delicioso en dejar que esto que se clava lentamente ahora se tuerza y salga, solo para lentamente dejarnos pensar en el proximo segundo.
-
-Como una gota amarga, a demasiado exceso y devoción por ganancias de un dealer local, que termina por definir lo que es agradable.
-
-Supongo que me agrada la forma en que mi vida se torna mas una forma de compartir perversiones y hablar extensamente de lo inconfundiblemente prohibido.
+Hay poco que hablar de aquello que nos ciega y corta. La gran idea, aparentemente es... dejar pasar. Hay algo oscuro y delicioso en dejar que esto que se clava lentamente ahora se tuerza y salga, solo para lentamente dejarnos pensar en el próximo segundo. Como una gota amarga, a demasiado exceso y devoción por ganancias de un dealer local, que termina por definir lo que es agradable. Supongo que me agrada la forma en que mi vida se torna mas una forma de compartir perversiones y hablar extensamente de lo inconfundiblemente prohibido.
 
 "Look for what seems out of please"
 
