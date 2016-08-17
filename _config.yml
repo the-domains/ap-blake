@@ -1,6 +1,6 @@
 name: AP Blake
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.12703
 typography_spectrum: 0.38108
 title: Under a Glass Bell
 cta:
@@ -22,8 +22,8 @@ color:
     - '#58abbd'
     - '#96d0dc'
     - '#065168'
-  brandStrength: 0.8031215444207191
+  brandStrength: 0.25
   lightness: 0.27225468936376274
-  saturation: 0.8400290990248322
+  saturation: 0.5
   rhythmicContrast: 0.759108904749155
 purpose: []
